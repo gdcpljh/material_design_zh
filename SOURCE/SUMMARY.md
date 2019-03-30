@@ -36,6 +36,8 @@
   * [Text fields](components/text-fields.md)
   * [Tooltips](components/tooltips.md)
 * Patterns
+  * [Data formats](patterns/Data-formats.md)
+  * [Errors](patterns/Errors.md)
   * [Selection](patterns/selection.md)
   * [Gestures](patterns/gestures.md)
   * [Promoted Actions](patterns/promoted-actions.md)
